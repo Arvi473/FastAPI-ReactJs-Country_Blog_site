@@ -166,8 +166,4 @@ npm start
 * Deploy backend + frontend (Docker, or separate hosting) and use cloud storage for images.
 * Add automated tests and CI pipeline.
 
----
 
-## 👨‍💻 Author
-
-**N. Aravind Santhosh**
